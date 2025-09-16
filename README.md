@@ -1,5 +1,9 @@
 Welcome to my GitHub profile! I'm Jeff, a passionate machine learning engineer, open-source developer, and scientist.
 
+<a href="http://jedick.github.io/">
+<img src="portfolio_banner.png" alt="Banner for Jeffrey Dick's data science portfolio" style="width:35%; float:right; margin-right:20px;"/>
+</a>
+
 - 🔭 I’m currently working on [AI agents for statistics]
 - 🌱 I’m currently learning [LLM fine-tuning]
 - 👯 I’m looking to collaborate on [chatbots for open-source projects]
