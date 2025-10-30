@@ -2,7 +2,7 @@ Welcome to my GitHub profile! I'm Jeff, a passionate machine learning engineer, 
 
 ▶️  [*Check out my data science portfolio*](https://jedick.github.io/)
 
-➡️ Open issues:
+🛠️ Open issues:
 [adk-python (evals with MCP)](https://github.com/google/adk-python/issues/3161),
 [gradio (chatbot UX)](https://github.com/gradio-app/gradio/issues/11637),
 [langchain (local tool use)](https://github.com/langchain-ai/langchain/issues/29033),
@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm Jeff, a passionate machine learning engineer, 
 [langsmith-onboarding (logging)](https://github.com/nhuang-lc/langsmith-onboarding/issues/2)
 
 
-🛠️ Closed issues and *PRs*:
+✅️ Closed issues and *PRs*:
 [docker/hello-genai (model runner)](https://github.com/docker/hello-genai/issues/11),
 [adk-docs (hot reload)](https://github.com/google/adk-docs/issues/102),
 *[gradio docs (fix ValueError)](https://github.com/gradio-app/gradio/pull/11220)*,
