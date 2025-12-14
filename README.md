@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I'm Jeff, a passionate machine learning engineer, 
 ▶️  [*Check out my data science portfolio*](https://jedick.github.io/)
 
 <details>
-<summary><strong>Issues and PRs (click to open)</strong></summary>
+<summary>Issues and PRs (click to open)</summary>
 
 ↪️ Merged PRs:
 [gradio docs - fix ValueError](https://github.com/gradio-app/gradio/pull/11220),
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm Jeff, a passionate machine learning engineer, 
 ✅️ Closed issues:
 [adk-python - evals with MCP](https://github.com/google/adk-python/issues/3161),
 [docker/hello-genai - model runner](https://github.com/docker/hello-genai/issues/11),
-[eq3_6 - fortran](https://github.com/39alpha/eq3_6/issues/12),
+[eq3_6 - Fortran syntax](https://github.com/39alpha/eq3_6/issues/12),
 [pytorch-lightning - train mode for HF models](https://github.com/Lightning-AI/pytorch-lightning/issues/20646),
 [yihui.org - add vignette](https://github.com/yihui/yihui.org/pull/7)
 
