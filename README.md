@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm Jeff, a passionate machine learning engineer, 
 
 <details>
 <summary>Issues and PRs (click to open)</summary>
+<br>
 
 ↪️ Merged PRs:
 [gradio docs - fix ValueError](https://github.com/gradio-app/gradio/pull/11220),
