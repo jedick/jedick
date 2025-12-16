@@ -6,33 +6,34 @@ Welcome to my GitHub profile! I'm Jeff, a passionate machine learning engineer, 
 <summary>Issues and PRs (click to open)</summary>
 <br>
 
-↪️ Merged PRs:
-[gradio docs - fix ValueError](https://github.com/gradio-app/gradio/pull/11220),
-[excelToMarkdown - fix TypeError](https://github.com/nexxai/excelToMarkdown/pull/1),
-[koreader-base - use native coordinates](https://github.com/koreader/koreader-base/pull/414)
-
 🛠️ Open issues:
-[gradio - chatbot progress timer](https://github.com/gradio-app/gradio/issues/11637),
-[langchain - local tool use](https://github.com/langchain-ai/langchain/issues/29033),
-[langsmith-onboarding - logging](https://github.com/nhuang-lc/langsmith-onboarding/issues/2)
+[Logfire - timing for manual context propagation](https://github.com/pydantic/logfire/issues/1577),
+[Gradio - chatbot progress timer](https://github.com/gradio-app/gradio/issues/11637),
+[LangChain - local tool use](https://github.com/langchain-ai/langchain/issues/29033),
+[LangSmith onboarding - logging](https://github.com/nhuang-lc/langsmith-onboarding/issues/2)
 
 ✅️ Closed issues:
-[adk-python - evals with MCP](https://github.com/google/adk-python/issues/3161),
-[docker/hello-genai - model runner](https://github.com/docker/hello-genai/issues/11),
-[eq3_6 - Fortran syntax](https://github.com/39alpha/eq3_6/issues/12),
-[pytorch-lightning - train mode for HF models](https://github.com/Lightning-AI/pytorch-lightning/issues/20646),
+[ADK Python - evals with MCP](https://github.com/google/adk-python/issues/3161),
+[Docker hello-genai - model runner](https://github.com/docker/hello-genai/issues/11),
+[EQ3/6 - Fortran syntax](https://github.com/39alpha/eq3_6/issues/12),
+[PyTorch Lightning - train mode for HF models](https://github.com/Lightning-AI/pytorch-lightning/issues/20646),
 [yihui.org - add vignette](https://github.com/yihui/yihui.org/pull/7)
 
+↪️ Merged PRs:
+[Gradio docs - fix ValueError](https://github.com/gradio-app/gradio/pull/11220),
+[Excel To Markdown - fix TypeError](https://github.com/nexxai/excelToMarkdown/pull/1),
+[KOReader - use native coordinates](https://github.com/koreader/koreader-base/pull/414)
+
 💬 Comments:
-[langchain - ChatHuggingFace docs](https://github.com/langchain-ai/docs/issues/457),
-[adk-docs - hot reload](https://github.com/google/adk-docs/issues/102)
+[LangChain - ChatHuggingFace docs](https://github.com/langchain-ai/docs/issues/457),
+[ADK docs - hot reload](https://github.com/google/adk-docs/issues/102)
 
 </details>
 
 <!--
 Dead links:
-[langgraph (streaming)](https://github.com/langchain-ai/langgraph/discussions/3042),
-[langchain top_k](https://github.com/langchain-ai/langchain/discussions/17582),
+[LangGraph - streaming)](https://github.com/langchain-ai/langgraph/discussions/3042),
+[LangChain - top_k](https://github.com/langchain-ai/langchain/discussions/17582),
 
 Others:
 - [AI-for-SWEs](https://github.com/hugobowne/AI-for-SWEs/issues/10)
