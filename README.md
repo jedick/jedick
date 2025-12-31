@@ -1,7 +1,6 @@
 Welcome to my GitHub profile! I'm Jeff, a passionate data scientist, open-source developer, and researcher.
 
-<img src="https://jedick.github.io/assets/favicon/favicon.svg" alt="favicon of Learning with Machines portfolio and blog" style="height: 1.2em"> <a href="https://jedick.github.io/">Learning with Machines</a> is my tech portfolio and blog, where I post about building dependable AI systems.
-<br>
+<img src="https://jedick.github.io/assets/favicon/favicon.svg" alt="favicon of Learning with Machines portfolio and blog" style="height: 1.2em"> <a href="https://jedick.github.io/">Learning with Machines</a> is my tech portfolio and blog, where I write about building dependable AI systems.
 <br>
 
 <details open>
