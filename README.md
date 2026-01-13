@@ -8,9 +8,10 @@ Welcome to my GitHub profile! I'm Jeff, a passionate data scientist, open-source
 <br>
 
 🛠️ Open issues:
+[ADK Python - dev UI logging](https://github.com/google/adk-python/issues/4139),
+[Gradio - HF Spaces error](https://github.com/gradio-app/gradio/issues/12699),
 [Logfire - timing for manual context propagation](https://github.com/pydantic/logfire/issues/1577),
 [Gradio - chatbot progress timer](https://github.com/gradio-app/gradio/issues/11637),
-[LangChain - local tool use](https://github.com/langchain-ai/langchain/issues/29033),
 [LangSmith onboarding - logging](https://github.com/nhuang-lc/langsmith-onboarding/issues/2)
 
 ✅️ Closed issues:
@@ -25,8 +26,9 @@ Welcome to my GitHub profile! I'm Jeff, a passionate data scientist, open-source
 [yihui.org - add CHNOSZ vignette](https://github.com/yihui/yihui.org/pull/7),
 [KOReader - use native coordinates](https://github.com/koreader/koreader-base/pull/414)
 
-💬 Proposed answers:
+💬 Comments:
 [Minimal Mistakes - highlight current page in masthead](https://github.com/mmistakes/minimal-mistakes/discussions/2759#discussioncomment-15356751),
+[LangChain - local tool use](https://github.com/langchain-ai/langchain/issues/29033#issuecomment-3067841953),
 [LangChain docs - ChatHuggingFace usage](https://github.com/langchain-ai/docs/issues/457#issuecomment-3272782006),
 [ADK docs - hot reload for ADK web](https://github.com/google/adk-docs/issues/102#issuecomment-3163665211)
 
