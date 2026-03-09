@@ -4,21 +4,8 @@ Welcome to my GitHub profile! I'm Jeff, a passionate data scientist, open-source
 <br>
 
 <details open>
-<summary>Activity in other repos</summary>
+<summary>Activity around GitHub</summary>
 <br>
-
-🛠️ Open issues:
-[Logfire - timing for manual context propagation](https://github.com/pydantic/logfire/issues/1577),
-[Gradio - chatbot progress timer](https://github.com/gradio-app/gradio/issues/11637),
-[LangSmith onboarding - logging](https://github.com/nhuang-lc/langsmith-onboarding/issues/2)
-
-✅️ Closed issues:
-[Gradio - HF Spaces error](https://github.com/gradio-app/gradio/issues/12699),
-[ADK Python - dev UI logging](https://github.com/google/adk-python/issues/4139),
-[ADK Python - evals with MCP](https://github.com/google/adk-python/issues/3161),
-[Docker hello-genai - model runner](https://github.com/docker/hello-genai/issues/11),
-[EQ3/6 - Fortran syntax](https://github.com/39alpha/eq3_6/issues/12),
-[PyTorch Lightning - train mode for HF models](https://github.com/Lightning-AI/pytorch-lightning/issues/20646)
 
 ↪️ Merged PRs:
 [Gradio docs - fix ValueError](https://github.com/gradio-app/gradio/pull/11220),
@@ -26,11 +13,27 @@ Welcome to my GitHub profile! I'm Jeff, a passionate data scientist, open-source
 [yihui.org - add CHNOSZ vignette](https://github.com/yihui/yihui.org/pull/7),
 [KOReader - use native coordinates](https://github.com/koreader/koreader-base/pull/414)
 
+✅️ Answers:
+[Minimal Mistakes - highlight current page in masthead](https://github.com/mmistakes/minimal-mistakes/discussions/2759#discussioncomment-15356751)
+
 💬 Comments:
-[Minimal Mistakes - highlight current page in masthead](https://github.com/mmistakes/minimal-mistakes/discussions/2759#discussioncomment-15356751),
+[MDN - `start_url` for progressive web apps](https://github.com/mdn/pwa-examples/issues/39#issuecomment-4011916095),
 [LangChain - local tool use](https://github.com/langchain-ai/langchain/issues/29033#issuecomment-3067841953),
 [LangChain docs - ChatHuggingFace usage](https://github.com/langchain-ai/docs/issues/457#issuecomment-3272782006),
-[ADK docs - hot reload for ADK web](https://github.com/google/adk-docs/issues/102#issuecomment-3163665211)
+[ADK docs - hot reload for `adk web`](https://github.com/google/adk-docs/issues/102#issuecomment-3163665211)
+
+🛠️ Open issues:
+[Logfire - timing for manual context propagation](https://github.com/pydantic/logfire/issues/1577),
+[Gradio - chatbot progress timer](https://github.com/gradio-app/gradio/issues/11637),
+[LangSmith onboarding - logging](https://github.com/nhuang-lc/langsmith-onboarding/issues/2)
+
+🏁 Closed issues:
+[Gradio - HF Spaces error](https://github.com/gradio-app/gradio/issues/12699),
+[ADK Python - dev UI logging](https://github.com/google/adk-python/issues/4139),
+[ADK Python - evals with MCP](https://github.com/google/adk-python/issues/3161),
+[Docker hello-genai - model runner](https://github.com/docker/hello-genai/issues/11),
+[EQ3/6 - Fortran syntax](https://github.com/39alpha/eq3_6/issues/12),
+[PyTorch Lightning - train mode for HF models](https://github.com/Lightning-AI/pytorch-lightning/issues/20646)
 
 </details>
 
