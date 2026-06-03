@@ -24,15 +24,15 @@ Welcome to my GitHub profile! I'm Jeff, a passionate data scientist, open-source
 
 🛠️ Open issues:
 [Logfire - timing for manual context propagation](https://github.com/pydantic/logfire/issues/1577),
-[Gradio - chatbot progress timer](https://github.com/gradio-app/gradio/issues/11637),
 [LangSmith onboarding - logging](https://github.com/nhuang-lc/langsmith-onboarding/issues/2)
 
 🏁 Closed issues:
-[Gradio - HF Spaces error](https://github.com/gradio-app/gradio/issues/12699),
 [ADK Python - dev UI logging](https://github.com/google/adk-python/issues/4139),
+[Gradio - HF Spaces error](https://github.com/gradio-app/gradio/issues/12699),
 [ADK Python - evals with MCP](https://github.com/google/adk-python/issues/3161),
 [Docker hello-genai - model runner](https://github.com/docker/hello-genai/issues/11),
 [EQ3/6 - Fortran syntax](https://github.com/39alpha/eq3_6/issues/12),
+[Gradio - chatbot progress timer](https://github.com/gradio-app/gradio/issues/11637),
 [PyTorch Lightning - train mode for HF models](https://github.com/Lightning-AI/pytorch-lightning/issues/20646)
 
 </details>
